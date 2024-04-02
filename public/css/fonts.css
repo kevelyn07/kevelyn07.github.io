@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "Vogue";
+    src: url("/public/assets/fonts/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjIUvQ.woff2");
+    width: 400;
+}
+
+@font-face {
+    font-family: "Vogue";
+    src: url("/public/assets/fonts/agaramondpro-bold-webfont.woff2");
+    width: 500;
+}
+
+@font-face {
+    font-family: "Vogue";
+    src: url("/public/assets/fonts/agaramondpro-regular-webfont.woff2");
+    width: 600;
+}
+
+@font-face {
+    font-family: "Vogue";
+    src: url("/public/assets/fonts/VogueAvantGarde-Bold.woff");
+    width: 700;
+}
+
+@font-face {
+    font-family: "Vogue";
+    src: url("/public/assets/fonts/VogueAvantGarde-DemiBold.woff");
+    width: 800;
+}
+
+@font-face {
+    font-family: "Vogue";
+    src: url("/public/assets/fonts/VogueAvantGarde-Medium.woff");
+    width: 900;
+}

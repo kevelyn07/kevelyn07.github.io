@@ -1,0 +1,33 @@
+.clube{
+    text-align: center;
+    background-color: #000000;
+    padding: 30px;
+}
+
+.clube img{
+    width: 35rem;
+}
+
+.clube2 img{
+    width: 35rem;
+    padding: 25px;
+    gap: 35px;
+}
+
+.clube2 a{
+    display: inline-block;
+    width: 100%;
+    height: auto; 
+    text-align: center;
+    line-height: 100px;
+    border: 2px solid #c9c9c9;
+    background-color:#000000;
+    font: 600 40px "Vogue";
+    color: #ffffff;
+}
+
+
+.clube2 h3{
+    gap: 0%;
+    padding: 0%;
+}
